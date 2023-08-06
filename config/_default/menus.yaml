@@ -4,21 +4,21 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: CV
-    url: CV
-    weight: 10
   - name: Publications
     url: publication
+    weight: 10
+  - name: CV
+    url: CV
     weight: 20
 #  - name: People
 #    url: people
 #    weight: 30
   - name: Teaching
     url: teaching
-    weight: 40
+    weight: 30
   - name: Mentoring
     url: mentoring
-    weight: 50
+    weight: 40
   - name: Contact
     url: contact
-    weight: 60
+    weight: 50
