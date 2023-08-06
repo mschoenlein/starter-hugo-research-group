@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: rose # minimal
+  theme_day: strawberry # minimal
   theme_night:
   font: native
   font_size: L
