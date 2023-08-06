@@ -12,6 +12,8 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
+
+ {{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.
 ---
 
 This is my CV!
