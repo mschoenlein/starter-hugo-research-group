@@ -1,12 +1,10 @@
 ---
-title: 'An example journal article'
+title: 'Colour-concept association formation for novel concepts'
 authors:
   - admin
-  - Robert Ford
+  - Karen B. Schloss
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
+date: '2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,13 +17,15 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
+publication: '*Visual Cognition, 30*(7)'
 publication_short: ''
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Colour-concept associations influence fundamental processes in cognition and perception, including object recognition and visual reasoning. To understand these effects, it is necessary to understand how colour-concept associations are formed. It is assumed that colour-concept associations are learned through experiences, but questions remain concerning how association formation is influenced by properties of the input and cognitive factors. We addressed these
+questions by first exposing participants to colour-concept co-occurrences for novel concepts (“Filk” and “Slub” alien species) using a category learning task. We then assessed colour-concept associations using an association rating task. During alien category learning, colour was a noisy cue and shape was 100% diagnostic of category membership, so participants could ignore colour to complete the task. Nonetheless, participants learned systematic colour-concept associations for “seen” colours during alien category learning and generalized to “unseen” colours as a function of colour distance from the seen colours (Experiment 1). Association
+formation not only depended on colour-concept co-occurrences during alien category learning, but also on cognitive structure of colour categories (e.g., degree to which an observed red colour is typical of the colour category “red”) (Experiment 2). Thus, environmental and cognitive factors combine to influence colour-concept associations formed from experiences in the world.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
   - Source Themes
@@ -34,7 +34,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.tandfonline.com/doi/full/10.1080/13506285.2022.2089418
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  caption: 'Aliens'
   focal_point: ''
   preview_only: false
 
