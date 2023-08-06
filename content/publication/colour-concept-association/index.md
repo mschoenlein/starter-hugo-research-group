@@ -3,7 +3,7 @@ title: 'Colour-concept association formation for novel concepts'
 authors:
   - admin
   - Karen B. Schloss
-author_notes:
+author_notes: ''
 date: '2022'
 doi: ''
 
