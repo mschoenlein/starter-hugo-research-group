@@ -12,7 +12,8 @@
       image:
         filename: welcome.jpg
       text: |
-        <br>I'm a 6th year PhD candidate... 
+        <br>I am a vision scientist studying visual reasoning through a psychological and visualization lens. Specifically, I have been investigating howpeople learn associations between colors and concepts from their experiences in the world, and how those associations then influence our interpretations of information visualizations. 
+    <p>I am a 6th year PhD candidate at the University of Wisconsin-Madison, where I work with Karen Schloss in the Visual Reasoning lab as part of the Department of Psychology and Wisconsin Institute for Discovery.
 ---
 
 
