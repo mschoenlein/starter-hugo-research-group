@@ -16,4 +16,4 @@ header:
 ---
  {{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.
 
-<iframe src="https://drive.google.com/file/d/1fpwMl_ecHHBU1OLcHXSygEmuS61zlQiP/preview" width="1240" height="1080" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1fpwMl_ecHHBU1OLcHXSygEmuS61zlQiP/preview" width="840" height="880" allow="autoplay"></iframe>
