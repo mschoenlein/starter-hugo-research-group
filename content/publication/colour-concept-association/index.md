@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [https://www.tandfonline.com/doi/full/10.1080/13506285.2022.2089418](https://www.tandfonline.com/doi/epdf/10.1080/13506285.2022.2089418?needAccess=true&role=button)
+url_pdf: https://www.tandfonline.com/doi/epdf/10.1080/13506285.2022.2089418?needAccess=true&role=button
 url_code: ''
 url_dataset: ''
 url_poster: ''
