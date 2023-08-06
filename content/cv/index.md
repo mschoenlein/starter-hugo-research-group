@@ -19,4 +19,6 @@ This is my CV?
 
  {{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.
 
- {{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vTxnW3O1l6TiVH7bGgBGewEyQolAl7kUlEtJGNsGV_QKhkFg4od271Y75Udre5GnG6A2BjPe5StweDQ/pub?embedded=true">}}
+# {{< gdocs src="https://docs.google.com/document/d/e/2PACX-1vTxnW3O1l6TiVH7bGgBGewEyQolAl7kUlEtJGNsGV_QKhkFg4od271Y75Udre5GnG6A2BjPe5StweDQ/pub?embedded=true">}}
+
+<iframe src="https://drive.google.com/file/d/12OsrVVpT47EQ3s95spBUPiuzBFnMGTdX/preview" width="830" height="1060" allow="autoplay"></iframe>
