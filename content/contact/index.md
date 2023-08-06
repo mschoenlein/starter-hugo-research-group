@@ -55,7 +55,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: paintBackground_03.png
+          filename: paintBackground-03.png
           filters:
             brightness: 1
           parallax: false
