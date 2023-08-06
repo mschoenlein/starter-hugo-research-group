@@ -14,4 +14,19 @@ header:
   image: ""
 ---
 
-TEACHING EXPERIENCE, REVIEWS, AND PHILOSOPHY
+TEACHING EXPEREINCE
+Instructor of record
+course evaluations
+
+Teaching assistantships
+
+Guest lectures
+
+Teaching instruction
+
+PEDAGOGIGAL TRAINING
+Classes and workshops completed
+
+Teaching-as-research internship
+ 
+ 
