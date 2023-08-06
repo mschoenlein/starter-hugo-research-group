@@ -10,8 +10,8 @@ sections:
       title: Connect with me
       text: |-
        Send me a message!
-      email: test@example.org
-      phone: 888 888 88 88
+      email:  schoenlein@wisc.edu
+     # phone: 
       address:
         street: 1202 W. Johnson St. 
         city: Madison
@@ -55,7 +55,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact.jpg
+          filename: paintBackground_03.png
           filters:
             brightness: 1
           parallax: false
