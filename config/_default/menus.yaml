@@ -8,7 +8,7 @@ main:
     url: publication
     weight: 10
   - name: CV
-    url: CV
+    url: cv
     weight: 20
 #  - name: People
 #    url: people
