@@ -1,6 +1,6 @@
 ---
-title: Mentorship
-summary: mentorship
+title: Mentoring
+summary: mentoring
 date: "2018-06-28T00:00:00Z"
 
 reading_time: false  # Show estimated reading time?
