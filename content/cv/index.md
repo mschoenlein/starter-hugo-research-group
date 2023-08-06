@@ -14,9 +14,6 @@ header:
   image: ""
 
 ---
-
-This is my CV?
-
  {{% staticref "uploads/cv.pdf" %}}Download my CV{{% /staticref %}}.
 
 <iframe src="https://drive.google.com/file/d/1fpwMl_ecHHBU1OLcHXSygEmuS61zlQiP/preview" width="640" height="480" allow="autoplay"></iframe>
