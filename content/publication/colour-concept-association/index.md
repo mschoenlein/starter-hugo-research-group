@@ -8,7 +8,7 @@ date: '2022'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,7 +32,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.tandfonline.com/doi/full/10.1080/13506285.2022.2089418
+url_pdf: [https://www.tandfonline.com/doi/full/10.1080/13506285.2022.2089418](https://www.tandfonline.com/doi/epdf/10.1080/13506285.2022.2089418?needAccess=true&role=button)
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,8 +63,3 @@ projects: []
 slides:
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
